@@ -11,12 +11,14 @@ Google Gemini 2.0 Pro Experimental = 90 (10)
 Claude 3.5 Haiku  (api) = 80 (6,10)
 Google Gemini 2.0 Flash lite = 80 (8,10)
 X Grok 3 Beta Think = 80 (8,9)
+Deepseek V3 0324 (thirdparty api) = 80 (7,8)
 
 Meta Llama 3.1 405B (api) = 70 (4,6,10) 
 Qwen 2.5 72B= 70 (4,6,10)
 Deepseek V3 = 70 (2,7,8)
 Google Gemini 2.0 Flash = 70 (2,3,7)
 Google Gemma 3 27B = 70 (2,6,10)
+Google Gemma 3 27B (thirdparty api) = 70 (2,6,10)
 
 ChatGPT 4o mini = 60 (3,5,6,10)
 Qwen 2.5 Max = 60 (3,4,6,10)
@@ -24,18 +26,31 @@ Qwen 2.5 VL 32B = 60 (2,4,6,10)
 Deepseek R1 = 60 (6,7,9,10)
 X Grok 3 Beta = 60 (2,7,9,10)
 Mistral Le Chat = 60 (2,6,9,10)
+Mistral Small 3.1 24B (thirdparty api) = 60 (2,3,6,9)(8 was probably)
 
 Meta Llama 3.1 70B (api) = 50 (3,4,6,9,10) 
 Qwen QwQ 32B = 50 (3,4,6,9,10)
 Qwen 2.5 14B 1M = 50 (2,3,4,6,9)
 Microsoft Copilot Think Deeper = 50 (2,3,4,6,10)
+R1 Distill Llama 70B (thirdparty api) = 50 (3,4,6,9,10)
 
 ChatGPT o3 mini = 40 (2,3,4,6,9,10)
 Qwen 2.5 Plus = 40 (4,6,7,8,9,10)
 Qwen 2.5 Turbo = 40 (2,3,4,6,9,10)
 Qwen 2.5 QVQ 72B Preview= 40 (2,3,6,8,9,10)
 Qwen 2.5 Code 32B = 40 (2,3,4,6,9,10)
+Mistral Small 3 24B (thirdparty api) = 40 (1,2,4,6,8,9)
+Google Gemma 3 12B (thirdparty api) = 40 (2,3,6,7,9,10)
+Reka Flash 3 (thirdparty api) = 40 (2,3,4,6,9,10)
+Llama 3.3 70B (thirdparty api) = 40 (3,4,6,7,9,10)
 
 Meta Llama 3.1 8B (api) = 30 (3,4,5,6,7,9,10)
+Llama 3.2 3B (thirdparty api) = 30 (3,4,5,6,8,9,10)
+
+Google Gemma 3 4B (thirdparty api) = 20 (1,2,3,4,5,6,7,10)
+
+Google Gemma 3 1B (thirdparty api) = 10 (1,2,3,5,6,7,8,9,10)
 
 Microsoft Copilot = blocked
+
+
