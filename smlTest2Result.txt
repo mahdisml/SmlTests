@@ -1,0 +1,41 @@
+{ 2023-3 }
+{ score and mistakes }
+---------------------------------------------
+Claude 3.7 Sonnet Reasoning (api) = 100
+Claude 3.7 Sonnet (api) = 100
+Google Gemini 2.0 Flash Thinking = 100
+
+ChatGPT 4o  = 90 (7)
+Google Gemini 2.0 Pro Experimental = 90 (10)
+
+Claude 3.5 Haiku  (api) = 80 (6,10)
+Google Gemini 2.0 Flash lite = 80 (8,10)
+X Grok 3 Beta Think = 80 (8,9)
+
+Meta Llama 3.1 405B (api) = 70 (4,6,10) 
+Qwen 2.5 72B= 70 (4,6,10)
+Deepseek V3 = 70 (2,7,8)
+Google Gemini 2.0 Flash = 70 (2,3,7)
+Google Gemma 3 27B = 70 (2,6,10)
+
+ChatGPT 4o mini = 60 (3,5,6,10)
+Qwen 2.5 Max = 60 (3,4,6,10)
+Qwen 2.5 VL 32B = 60 (2,4,6,10)
+Deepseek R1 = 60 (6,7,9,10)
+X Grok 3 Beta = 60 (2,7,9,10)
+Mistral Le Chat = 60 (2,6,9,10)
+
+Meta Llama 3.1 70B (api) = 50 (3,4,6,9,10) 
+Qwen QwQ 32B = 50 (3,4,6,9,10)
+Qwen 2.5 14B 1M = 50 (2,3,4,6,9)
+Microsoft Copilot Think Deeper = 50 (2,3,4,6,10)
+
+ChatGPT o3 mini = 40 (2,3,4,6,9,10)
+Qwen 2.5 Plus = 40 (4,6,7,8,9,10)
+Qwen 2.5 Turbo = 40 (2,3,4,6,9,10)
+Qwen 2.5 QVQ 72B Preview= 40 (2,3,6,8,9,10)
+Qwen 2.5 Code 32B = 40 (2,3,4,6,9,10)
+
+Meta Llama 3.1 8B (api) = 30 (3,4,5,6,7,9,10)
+
+Microsoft Copilot = blocked
