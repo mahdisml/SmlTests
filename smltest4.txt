@@ -1,0 +1,164 @@
+به سوالات زیر جواب دهید (بدون هیچ گونه توضیحی فقط گزینه ی صحیح یا جواب را بنویسید):
+
+### **گرامر زبان انگلیسی**  
+1. Which of the following sentences correctly uses the subjunctive mood?  
+   A) If I were you, I would accept the offer.  
+   B) If I was you, I would accept the offer.  
+   C) If she was here, we would have won.  
+   D) If he would study, he could pass.  
+
+2. Which sentence correctly applies the rule of parallelism?  
+   A) She enjoys reading, to swim, and jogging.  
+   B) She enjoys reading, swimming, and jogging.  
+   C) She enjoys to read, swimming, and jogging.  
+   D) She enjoys reading, to swim, and to jog.  
+
+3. Identify the sentence with the correct usage of a restrictive clause.  
+   A) The book, which I borrowed from the library, is interesting.  
+   B) The book that I borrowed from the library is interesting.  
+   C) The book, that I borrowed from the library, is interesting.  
+   D) The book which I borrowed from the library is interesting.  
+
+4. Choose the sentence that correctly uses a past perfect tense.  
+   A) By the time he arrived, I had finished my work.  
+   B) By the time he arrives, I had finished my work.  
+   C) By the time he arrived, I finish my work.  
+   D) By the time he arrived, I have finished my work.  
+
+5. Which sentence correctly follows subject-verb agreement rules?  
+   A) Either John or his friends are coming to the party.  
+   B) Either John or his friends is coming to the party.  
+   C) Neither John nor his friends was coming to the party.  
+   D) Neither John nor his friends is coming to the party.  
+
+---
+
+### **ادبیات فارسی**  
+1. کدام بیت از نظر وزن عروضی سالم است؟  
+   A) به صحرا شدم عشق باریده بود  
+   B) به صحرا شدم عشق باران شده  
+   C) به صحرا شدم عشق می‌بارید  
+   D) به صحرا شدم عشق باریدست  
+
+2. در کدام گزینه «تشخیص» به‌کار رفته است؟  
+   A) ابرها گریه کردند و باران بارید.  
+   B) رودها به سوی دریا می‌دوند.  
+   C) کوه‌ها بلند و استوار ایستاده‌اند.  
+   D) درختان در باد رقصیدند.  
+
+3. معنی واژه‌ی «سهاب» در اشعار کلاسیک فارسی چیست؟  
+   A) ابر  
+   B) آتش  
+   C) دریا  
+   D) کوه  
+
+4. کدام شاعر به لقب «لسان‌الغیب» مشهور است؟  
+   A) حافظ  
+   B) سعدی  
+   C) مولوی  
+   D) فردوسی  
+
+5. کدام گزینه یک جمله‌ی مرکب است؟  
+   A) من به مدرسه رفتم.  
+   B) هوا بارانی است.  
+   C) وقتی باران بارید، خیابان خیس شد.  
+   D) کتاب را خواندم.  
+
+---
+
+### **ریاضی**  
+1. مقدار حد \( \lim_{x \to 0} \frac{\sin x}{x} \) برابر است با؟  
+   A) 1  
+   B) 0  
+   C) ∞  
+   D) -1  
+
+2. انتگرال \( \int e^x dx \) برابر است با؟  
+   A) \( e^x + C \)  
+   B) \( xe^x + C \)  
+   C) \( \frac{e^x}{x} + C \)  
+   D) \( \ln e^x + C \)  
+
+3. اگر \( f(x) = x^2 + 3x + 2 \) باشد، مقدار مشتق \( f'(x) \) چیست؟  
+   A) \( 2x + 3 \)  
+   B) \( x + 3 \)  
+   C) \( x^2 + 3 \)  
+   D) \( 2x \)  
+
+4. مجموع زاویه‌های داخلی یک شش‌ضلعی چند درجه است؟  
+   A) 720  
+   B) 540  
+   C) 360  
+   D) 180  
+
+5. معادله \( x^2 - 5x + 6 = 0 \) دارای چه ریشه‌هایی است؟  
+   A) 2 و 3  
+   B) 1 و 6  
+   C) -2 و -3  
+   D) 0 و 5  
+
+---
+
+### **فیزیک**  
+1. سرعت نور در خلأ چقدر است؟  
+   A) \( 3.0 \times 10^8 \) متر بر ثانیه  
+   B) \( 3.0 \times 10^6 \) متر بر ثانیه  
+   C) \( 3.0 \times 10^9 \) متر بر ثانیه  
+   D) \( 3.0 \times 10^7 \) متر بر ثانیه  
+
+2. شتاب گرانش زمین تقریباً چقدر است؟  
+   A) \( 9.8 \) متر بر مجذور ثانیه  
+   B) \( 8.9 \) متر بر مجذور ثانیه  
+   C) \( 10.2 \) متر بر مجذور ثانیه  
+   D) \( 9.2 \) متر بر مجذور ثانیه  
+
+3. در یک حرکت پرتابی، بیشترین ارتفاع با کدام فرمول محاسبه می‌شود؟  
+   A) \( \frac{v_0^2 \sin^2 \theta}{2g} \)  
+   B) \( v_0 \sin \theta t \)  
+   C) \( \frac{v_0^2 \cos^2 \theta}{2g} \)  
+   D) \( \frac{v_0^2}{g} \)  
+
+4. انرژی جنبشی یک جسم با کدام رابطه داده می‌شود؟  
+   A) \( \frac{1}{2} mv^2 \)  
+   B) \( mv^2 \)  
+   C) \( mgh \)  
+   D) \( mgv \)  
+
+5. قانون دوم نیوتن چیست؟  
+   A) \( F = ma \)  
+   B) \( F = mg \)  
+   C) \( W = mg \)  
+   D) \( P = Fv \)  
+
+---
+
+### **شیمی**  
+1. عدد اتمی کربن چیست؟  
+   A) 6  
+   B) 12  
+   C) 14  
+   D) 16  
+
+2. کدام ترکیب یک اسید قوی است؟  
+   A) \( HCl \)  
+   B) \( NaOH \)  
+   C) \( NH_3 \)  
+   D) \( CH_3OH \)  
+
+3. کدام عنصر در گروه هالوژن‌ها قرار دارد؟  
+   A) فلوئور  
+   B) سدیم  
+   C) منیزیم  
+   D) هلیوم  
+
+4. کدام فرمول برای محاسبه غلظت مولار مناسب است؟  
+   A) \( C = \frac{n}{V} \)  
+   B) \( C = \frac{m}{V} \)  
+   C) \( C = \frac{PV}{nRT} \)  
+   D) \( C = \frac{RT}{PV} \)  
+
+5. کدام عدد اکسایش برای اکسیژن در بیشتر ترکیبات صحیح است؟  
+   A) -2  
+   B) +2  
+   C) 0  
+   D) -1
